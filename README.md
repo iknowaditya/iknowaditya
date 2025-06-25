@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="header"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="header"/>
 </p>
 
 <h1 align="center">🚀 Hi, I'm Hanu Singh</h1>
-<h3 align="center">Full-Stack Developer | Crafting Scalable Web Solutions | Open Source Contributor</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Architecting+Scalable+Web+Solutions;Building+AI-Powered+Applications;Open-Source+Contributor;MERN+%7C+Next.js+%7C+Python+%7C+ML" alt="Typing Header" />
+</h1>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=From+Frontend+to+Backend+to+AI;Turning+Code+Into+Intelligent+Systems;1%25+Better+Every+Day" alt="Subheader Typing" />
+  </a>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Exploring+Web3+and+Blockchain;Learning+something+new+daily" alt="Typing SVG" />
