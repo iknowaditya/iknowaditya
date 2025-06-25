@@ -7,16 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Architecting+Scalable+Web+Solutions;Building+AI-Powered+Applications;Open-Source+Contributor;MERN+%7C+Next.js+%7C+Python+%7C+ML" alt="Typing Header" />
 </h1>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=From+Frontend+to+Backend+to+AI;Turning+Code+Into+Intelligent+Systems;1%25+Better+Every+Day" alt="Subheader Typing" />
-  </a>
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Exploring+Web3+and+Blockchain;Learning+something+new+daily" alt="Typing SVG" />
-</p>
-
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ### 🚀 **About Me**
