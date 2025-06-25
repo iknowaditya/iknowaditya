@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Architecting+Scalable+Web+Solutions;Building+AI-Powered+Applications;Open-Source+Contributor;MERN+%7C+Next.js+%7C+Python+%7C+ML" alt="Typing Header" />
 </h1>
 
-<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212259412-24b0efc1-c324-4cc4-88dc-ec088abc8ad8.jpg" width="200">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212259412-24b0efc1-c324-4cc4-88dc-ec088abc8ad8.jpg" width="200">
 
 ### 🚀 **About Me**
 - 💻 **Full-Stack Developer** with 2+ years of experience
